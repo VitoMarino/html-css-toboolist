@@ -23,6 +23,13 @@ h1 {
 #ButtonT {
     background-color: blue;
     color: white;
+    padding: 5px;
+}
+
+#ButtonS {
+    background-color: white;
+    color: gray;
+    padding: 5px;
 }
 
 main {
@@ -35,4 +42,52 @@ main {
 
 .Distanza {
     margin-top: 30px;
+}
+
+.Bottoneazzurro {
+    background-color: rgb(0, 187, 255);
+    color: white;
+    border-radius: 10px;
+    font-size: 10px;
+    border: 0;
+}
+
+.Bottoneviola {
+    background-color: blueviolet;
+    color: white;
+    border-radius: 10px;
+    font-size: 10px;
+    border: 0;
+}
+
+.Bottoneverdes {
+    background-color: rgb(47, 255, 147);
+    color: white;
+    border-radius: 10px;
+    font-size: 10px;
+    border: 0;
+}
+
+.Bottonearancione {
+    background-color: orange;
+    color: white;
+    border-radius: 10px;
+    font-size: 10px;
+    border: 0;
+}
+
+.Bottonefucsia {
+    background-color: fuchsia;
+    color: white;
+    border-radius: 10px;
+    font-size: 10px;
+    border: 0;
+}
+
+.Bottoneverdec {
+    background-color: greenyellow;
+    color: white;
+    border-radius: 10px;
+    font-size: 10px;
+    border: 0;
 }
